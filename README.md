@@ -1,2 +1,4 @@
-# Group-Project-ezen-
-그룹 프로젝트(ezen)
+
+(프로젝트 진행 전)
+master 브랜치는 사용X
+
